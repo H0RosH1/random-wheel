@@ -1,0 +1,5 @@
+Todos List
+- add item
+- ramdom wheel
+- remove item
+- custom color
